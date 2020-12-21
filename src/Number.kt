@@ -30,6 +30,6 @@ fun main() {
     println("Underscore : $underscore")
 
 //    Conversion
-    var convertNumber = 100
+    var convertNumber = 1000
     println("Konversi Number :  ${convertNumber.toString()}")
 }
